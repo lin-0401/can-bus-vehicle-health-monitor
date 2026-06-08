@@ -1,0 +1,2 @@
+vehicle_id,segment_id,condition_type,start_time,end_time,duration_seconds,max_motor_temp,max_battery_temp,max_throttle,max_speed,severity_score,test_value
+EV-0003,0,high_load,2024-01-01 02:00:00.000,2024-01-01 02:01:39.900,100.0,98.86,28.96,100.0,165.08,29.92,一般价值

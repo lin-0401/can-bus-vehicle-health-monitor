@@ -1,0 +1,4 @@
+vehicle_id,driving_aggression_index,ac_dependency,charging_preference,energy_consumption_level,high_temp_exposure,rapid_accel_frequency,braking_intensity,range_anxiety,primary_scenario,cluster
+EV-0001,21.75,62.58,98.25,5.0,0,32.06,8.84,0.59,巡航,2
+EV-0002,30.84,62.49,96.84,5.0,0,42.41,12.65,1.06,巡航,0
+EV-0003,48.21,62.67,95.97,4.0,0,63.94,22.61,1.35,均衡,1
