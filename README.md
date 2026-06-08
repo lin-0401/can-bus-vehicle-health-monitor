@@ -393,7 +393,7 @@ MIT License
 
 ## 👥 作者
 
-基于新能源汽车大数据分析需求构建
+蒋浩伟
 
 ## 🔗 相关资源
 
@@ -401,3 +401,6 @@ MIT License
 - [PyFlink Documentation](https://nightlies.apache.org/flink/flink-docs-stable/)
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
 - [Streamlit Documentation](https://docs.streamlit.io/)
+  
+## 最后更新：2026年
+## 版权声明：本项目仅供学习和研究使用。
