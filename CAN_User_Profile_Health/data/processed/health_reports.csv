@@ -1,4 +1,0 @@
-vehicle_id,overall_score,overall_level,component_scores,report_time,critical_alerts,summary
-EV-0001,85.85,良好,"{'motor': np.float64(90.44), 'battery': np.float64(83.23), 'operation': np.float64(86.29)}",2026-06-08 17:16:46,[],综合健康评分86分，等级良好
-EV-0002,84.87,良好,"{'motor': np.float64(89.62), 'battery': np.float64(83.44), 'operation': np.float64(80.61)}",2026-06-08 17:16:46,[],综合健康评分85分，等级良好
-EV-0003,83.11,良好,"{'motor': np.float64(88.0), 'battery': np.float64(83.57), 'operation': np.float64(71.64)}",2026-06-08 17:16:46,"['检测到频繁急加速', '长时间高速行驶']",综合健康评分83分，等级良好
